@@ -11,7 +11,7 @@
 
 Project | Brief | Areas | Links
 --- | --- |--- | ---
-Ovarian Ultrasound (wip)| Segmenting and classifying ovarian tumors from ultrasounds.| Computer Vision, Semantic Segmentation , ultrasound| [[code]](https://github.com/ShaunSpinelli/acdc_challenge)
+Ovarian Ultrasound (wip)| Segmenting and classifying ovarian tumors from ultrasounds.| Computer Vision, Semantic Segmentation , ultrasound| [[code]](https://github.com/ShaunSpinelli/ultrasound_ovarian_seg)
 [ACDC Challenge](https://www.creatis.insa-lyon.fr/Challenge/acdc/) | Segmentation challenge involving classifying different regions of the heart in CT scans.| Computer Vision, Semantic Segmentation | [[code]](https://github.com/ShaunSpinelli/acdc_challenge)
 Knock Knock | Deep learning knock knock joke generator built as a team project while taking Fastai Part 1 V2 in 2018 | NLP | [[code]](https://github.com/ShaunSpinelli/compose_knock)
 
