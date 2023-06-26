@@ -3,7 +3,7 @@
 
 
 
-[Website](https://shaunspinelli.github.io/) | [LinkedIn](https://shaunspinelli.github.io/) 
+[Website](https://shaunspinelli.github.io/) | [LinkedIn](https://www.linkedin.com/in/shaun-spinelli-824357114/) 
 
 
 
