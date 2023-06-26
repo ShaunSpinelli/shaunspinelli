@@ -1,5 +1,5 @@
 <h1 align='center'> Shaun Spinelli</h1>
-<h2 align='center'> Machine Learning | Fullstack developer</h2>
+<p align='center'> <strong>Machine Learning | Fullstack developer</strong> </p>
 
 
 
